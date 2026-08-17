@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# editors
+/.idea
+/.vscode
+
+# AI 도구가 자동 생성하는 파일 (README의 "AI 도구 사용 규칙" 참고)
+# `next dev`가 매번 재생성하므로 추적하지 않는다.
+/AGENTS.md
+/CLAUDE.md
